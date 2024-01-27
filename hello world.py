@@ -7,5 +7,5 @@
 
 \f0\fs24 \cf0 # This program prints Hello, world!\
 \
-print('Hello, world!')\
+print('Hello, Hong!')\
 }
